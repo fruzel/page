@@ -1,0 +1,16 @@
+
+*{
+    font-family: 'Patrick Hand', cursive;
+    box-sizing: border-box;
+}
+#root{
+    background-color: rgb(238 227 196);
+}
+
+#body{
+    padding: 0;
+    margin: 0;
+    height:fit-content;
+   
+    background-color: rgb(238 227 196);
+}

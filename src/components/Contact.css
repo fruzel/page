@@ -1,0 +1,10 @@
+.container{
+    transform: skewY(10deg);
+    width: fit-content;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.inputField{
+    margin-bottom: 20px;
+}
