@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/page/static/css/main.df43cff7.css",
+    "main.js": "/page/static/js/main.3f8ccbaf.js",
+    "static/media/starlink.mp4": "/page/static/media/starlink.7aa5304c445c15fc7ea0.mp4",
+    "static/media/tinews.mp4": "/page/static/media/tinews.b26a917d5d5a9c52bfd5.mp4",
+    "static/media/onlineOrder.mp4": "/page/static/media/onlineOrder.9d4e5f8c72d56dd531a2.mp4",
+    "static/media/stream.mp4": "/page/static/media/stream.d3b8ecae7af1b086348c.mp4",
+    "static/media/avatar.jpg": "/page/static/media/avatar.8ca359b683d9e43e7c3f.jpg",
+    "index.html": "/page/index.html",
+    "main.df43cff7.css.map": "/page/static/css/main.df43cff7.css.map",
+    "main.3f8ccbaf.js.map": "/page/static/js/main.3f8ccbaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df43cff7.css",
+    "static/js/main.3f8ccbaf.js"
+  ]
+}
